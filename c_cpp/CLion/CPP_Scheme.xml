@@ -1,0 +1,35 @@
+<code_scheme name="Default" version="173">
+  <Objective-C>
+    <option name="MACROS_NAMING_CONVENTION">
+      <value prefix="__M_" style="SCREAMING_SNAKE_CASE" suffix="" />
+    </option>
+    <option name="CLASSES_AND_STRUCTS_NAMING_CONVENTION">
+      <value prefix="" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="ENUMS_NAMING_CONVENTION">
+      <value prefix="E_" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="TYPEDEFS_NAMING_CONVENTION">
+      <value prefix="tdef_" style="SNAKE_CASE" suffix="" />
+    </option>
+    <option name="UNIONS_NAMING_CONVENTION">
+      <value prefix="u_" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="FIELDS_NAMING_CONVENTION">
+      <value prefix="m_" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="PARAMETERS_NAMING_CONVENTION">
+      <value prefix="par" style="PASCAL_CASE" suffix="" />
+    </option>
+    <option name="LOCAL_VARIABLES_NAMING_CONVENTION">
+      <value prefix="_" style="SNAKE_CASE" suffix="" />
+    </option>
+  </Objective-C>
+  <codeStyleSettings language="ObjectiveC">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="2" />
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
